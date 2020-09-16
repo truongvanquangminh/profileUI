@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Profile UI</string>
+    <string name="messenger">Messenger</string>
+    <string name="facebook">facebook</string>
+    <string name="tr_ng_v_n_quang_minh">Trương Văn Quang Minh</string>
+    <string name="photo">Photo</string>
+    <string name="todo">TODO</string>
+    <string name="_200">200</string>
+    <string name="follower">Follower</string>
+    <string name="_9999">9999</string>
+    <string name="following">Following</string>
+    <string name="_500">500</string>
+</resources>
